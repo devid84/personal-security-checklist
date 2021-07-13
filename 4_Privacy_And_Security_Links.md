@@ -173,6 +173,7 @@
   - [Sophos: Naked Security](https://nakedsecurity.sophos.com/) - Security news and updates, presented in an easy-to-digest format. [RSS](https://nakedsecurity.sophos.com/feed/)
   - [IT Security Guru](https://www.itsecurityguru.org/) - Combines top cyber security news from multiple sites, easier to stay up-to-date
   - [FOSS Bytes- Cyber Security](https://fossbytes.com/category/security) - News about the latest exploits and hacks
+  - [Cyber Security ](https://securityweekly.com/) - SECURITY WEEKLY ARTICLES
 - **Cyber Security Infomation**
   - [Heimdal](https://heimdalsecurity.com/blog) - Personal Cyber Security Tutorials and Articles
   - [Tech Crunch](https://techcrunch.com/tag/cybersecurity-101) - Cyber Security 101
